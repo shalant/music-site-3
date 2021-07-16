@@ -1,0 +1,22 @@
+{
+  "name": "music-site-2",
+  "version": "1.0.0",
+  "description": "doug rosenberg's music website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalant/music-site-2.git"
+  },
+  "author": "doug rosenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shalant/music-site-2/issues"
+  },
+  "homepage": "https://github.com/shalant/music-site-2#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

@@ -1,0 +1,16 @@
+
+
+.bio {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px 50px;
+    border-radius: 100px;
+    border: aquamarine 4px solid;
+    box-shadow:bisque 5px 5px;
+
+}
+
+.bio:hover {
+    color:blueviolet
+}
